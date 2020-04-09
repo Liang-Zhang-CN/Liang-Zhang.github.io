@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-                        
+Contact
+=====
+E-mail: zhangl@cqu.edu.cn
+Office phone: +86 23 65102162
 
 Research interest
 ======
