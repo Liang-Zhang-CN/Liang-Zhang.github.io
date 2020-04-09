@@ -8,33 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Liang Zhang, Ph.D., Lecturer, Department of Engineering mechanics, Chongqing University
-
-E-mail: zhangl@cqu.edu.cn
-
-Office phone: +86 23 65102162
-
-Research interest
-
-Computational solid and structural mechanics, Wrinkled membranes, Tensegrity, Non-smooth problems
                         
 
+Research interest
+======
+Computational solid and structural mechanics, Wrinkled membranes, Tensegrity, Non-smooth problems.
 
 Education
-
-	Ph.D.,	Department of Engineering Mechanics, Dalian University of Technology, June, 2014
+======
+Ph.D.,	Department of Engineering Mechanics, Dalian University of Technology, June, 2014
 M.S.,	Department of Engineering Mechanics, Dalian University of Technology, June, 2011
 B.S.,	Department of Engineering Mechanics, Chongqing University, June, 2008
 
 Experience
-
+======
 Lecturer, Department of Engineering Mechanics, Chongqing University, July, 2014 - present
 
 Projects and funding
-
+======
 “Study on stabilized algorithm for wrinkling analysis of membranes with thermo-mechanical coupling effects”, supported by NSFC, 2016-2018.
 
 Publications
+======
 [1]Lu MK, Zhang HW, Zheng YG*, Zhang L, A multiscale finite element method with embedded strong discontinuity model for the simulation of cohesive cracks in solids, Computer Methods in Applied Mechanics and Engineering, 2016, Accepted.
 
 [2]Wu J*, Zhang L, Wan L, A mode-III crack under surface adhesion studied by non-uniform linear spring models, Acta Mechanica, 2016, Accepted.
