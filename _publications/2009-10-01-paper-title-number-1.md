@@ -1,5 +1,13 @@
+
 ---
-publications
+title: " "
+collection: 
+permalink:  
+excerpt:  
+date: 
+venue:  
+paperurl:  
+citation:  
 ---
 [1]Lu MK, Zhang HW, Zheng YG*, Zhang L, A multiscale finite element method with embedded strong discontinuity model for the simulation of cohesive cracks in solids, Computer Methods in Applied Mechanics and Engineering, 2016, Accepted.
 
@@ -32,3 +40,9 @@ publications
 [15]Zhang HW*, Zhang L, Gao Q, Numerical method for dynamic analysis of two-dimensional bimodular structures, AIAA Journal, 2012, 50: 1933-1942.
 
 [16]Zhang HW*, Zhang L, Gao Q, An efficient computational method for mechanical analysis of bimodular structures based on parametric variational principle, Computers & Structures, 2011, 89: 2352-2360.
+
+
+
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+---
+
