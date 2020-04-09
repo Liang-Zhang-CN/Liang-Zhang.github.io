@@ -10,22 +10,13 @@ redirect_from:
 
 Contact
 =====
-E-mail: zhangl@cqu.edu.cn
-Office phone: +86 23 65102162
+* E-mail: zhangl@cqu.edu.cn
+* Office phone: +86 23 65102162
 
 Research interest
 ======
 Computational solid and structural mechanics, Wrinkled membranes, Tensegrity, Non-smooth problems.
 
-Education
-======
-Ph.D.,	Department of Engineering Mechanics, Dalian University of Technology, June, 2014
-M.S.,	Department of Engineering Mechanics, Dalian University of Technology, June, 2011
-B.S.,	Department of Engineering Mechanics, Chongqing University, June, 2008
-
-Experience
-======
-Lecturer, Department of Engineering Mechanics, Chongqing University, July, 2014 - present
 
 Projects and funding
 ======
