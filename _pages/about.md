@@ -63,6 +63,7 @@ Publications
 [16]Zhang HW*, Zhang L, Gao Q, An efficient computational method for mechanical analysis of bimodular structures based on parametric variational principle, Computers & Structures, 2011, 89: 2352-2360.
 
 Conference presentation
+======
 [1]Zhang L, Zhang HW, Gao Q, Numerical investigation of tensegrity structures using co-rotational approach and parametric variational principle, The Fifth Asia Pacific Congress on Computational Mechanics and the Fourth International Symposium on Computational Mechanics, Singapore, 11-14th December, 2013.
 
 [2]Zhang L, Zhang HW, Yan B, A Stabilized Algorithm for Nonlinear Analysis of Bi-modulus Composites and Wrinkled Membranes, WCCM & APCOM, Seoul, 24-29 July, 2016.
