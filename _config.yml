@@ -85,8 +85,8 @@ author:
   bio              : "Ph.D., Lecturer, Department of Engineering mechanics"
   location         : "Chongqing University"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "zhangl@cqu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  Office phone     :"+86 23 65102162"
+  Office phone     : "+86 23 65102162"
 
 
 
