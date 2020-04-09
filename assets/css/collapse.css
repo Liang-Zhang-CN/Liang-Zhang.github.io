@@ -1,8 +1,10 @@
 .container {
+    background-color:#FFFAFA;
     width:100%;
     border:1px solid #add8e6;
 }
 .container div {
+    background-color:#FFFAFA;
     width:100%;
 }
 .container .header {
@@ -12,9 +14,8 @@
     font-weight: bold;
 }
 .container .content {
+    background-color:#FFFAFA;
     display: none;
     padding : 5px;
 }
-.masthead {
-	background: #000000;
-}
+
