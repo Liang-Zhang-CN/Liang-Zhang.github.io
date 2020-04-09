@@ -11,21 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D.,	Department of Engineering Mechanics, Dalian University of Technology, June, 2014
+* M.S.,	Department of Engineering Mechanics, Dalian University of Technology, June, 2011
+* B.S.,	Department of Engineering Mechanics, Chongqing University, June, 2008
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Lecturer, Department of Engineering Mechanics, Chongqing University, July, 2014 - present
   
 Skills
 ======
