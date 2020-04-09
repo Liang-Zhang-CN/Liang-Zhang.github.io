@@ -8,43 +8,43 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Liang Zhang, Ph.D., Lecturer, Department of Engineering mechanics, Chongqing University
+E-mail: zhangl@cqu.edu.cn
+Office phone: +86 23 65102162
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Research interest
+Computational solid and structural mechanics, Wrinkled membranes, Tensegrity, Non-smooth problems
+                        
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Education
+	Ph.D.,	Department of Engineering Mechanics, Dalian University of Technology, June, 2014
+M.S.,	Department of Engineering Mechanics, Dalian University of Technology, June, 2011
+B.S.,	Department of Engineering Mechanics, Chongqing University, June, 2008
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Experience
+Lecturer, Department of Engineering Mechanics, Chongqing University, July, 2014 - present
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Projects and funding
+“Study on stabilized algorithm for wrinkling analysis of membranes with thermo-mechanical coupling effects”, supported by NSFC, 2016-2018.
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Publications
+[1]Lu MK, Zhang HW, Zheng YG*, Zhang L, A multiscale finite element method with embedded strong discontinuity model for the simulation of cohesive cracks in solids, Computer Methods in Applied Mechanics and Engineering, 2016, Accepted.
+[2]Wu J*, Zhang L, Wan L, A mode-III crack under surface adhesion studied by non-uniform linear spring models, Acta Mechanica, 2016, Accepted.
+[3]Zhang L*, Zhang HT, Wu J, Yan B, Lu MK, Parametric variational principle for bi-modulus materials and its application to nacreous bio-composites, International Journal of Applied Mechanics, 2016, Accepted.
+[4]Wu J*, Ru C, Zhang L, Wan L, On geometrical shape of in-plane inclusion characterized by polynomial internal stress field under uniform eigenstrains, Applied Mathematics and Mechanics, 2016, 37(9): 1113-1130.
+[5]Wu C, Yan B*, Zhang L, Zhang B, Li Q, A method to calculate jump height of iced transmission lines after ice-shedding, Cold Regions Science and Technology, 2016,125: 40-47.
+[6]Li H, Zhang HW, Zheng YG*, Zhang L, A peridynamic model for the nonlinear static analysis of truss and tensegrity structures, Computational Mechanics, 2016, 57(5): 843-858.
+[7]Zhang L*, Dong KJ, Zhang HT, Yan B, A 3D PVP co-rotational formulation for large-displacement and small-strain analysis of bi-modulus materials, Finite Elements in Analysis and Design, 2016, 110: 20-31.
+[8]Zhou LS, Yan B*, Zhang L, Zhou S, Study on galloping behavior of iced eight bundle conductor transmission lines, Journal of Sound and Vibration, 2016, 362: 85-110.
+[9]Zhang L, Gao Q, Liu Y, Zhang HW*, An efficient finite element formulation for nonlinear analysis of clustered tensegrity, Engineering Computations, 2016, 33(1): 252-273.
+[10]Zhang L*, Zhang HW, Wu J, Yan B, A stabilized complementarity formulation for nonlinear analysis of 3D bimodular materials, Acta Mechanica Sinica, 2016, 32(3): 481-490.
+[11]Zhang L*, Lu MK, Zhang HW, Yan B, Geometrically nonlinear elasto-plastic analysis of clustered tensegrity based on the co-rotational approach, International Journal of Mechanical Sciences, 2015, 93: 154-165.
+[12]Zhang L, Gao Q, Zhang HW*, Analysis of 2-D bimodular materials and wrinkled membranes based on the parametric variational principle and co-rotational approach, International Journal for Numerical Methods in Engineering, 2014, 98(10): 721-746.
+[13]Liu H, Zhang L, Yang DS, Zhang HW*, An efficient multiscale method for 2D large displacement-small strain analysis of heterogeneous materials, Computational Materials Science, 2014, 83: 443-456.
+[14]Zhang L, Gao Q, Zhang HW*, An efficient algorithm for mechanical analysis of bimodular truss and tensegrity structures, International Journal of Mechanical Sciences, 2013, 70: 57-68.
+[15]Zhang HW*, Zhang L, Gao Q, Numerical method for dynamic analysis of two-dimensional bimodular structures, AIAA Journal, 2012, 50: 1933-1942.
+[16]Zhang HW*, Zhang L, Gao Q, An efficient computational method for mechanical analysis of bimodular structures based on parametric variational principle, Computers & Structures, 2011, 89: 2352-2360.
+Conference presentation
+[1]Zhang L, Zhang HW, Gao Q, Numerical investigation of tensegrity structures using co-rotational approach and parametric variational principle, The Fifth Asia Pacific Congress on Computational Mechanics and the Fourth International Symposium on Computational Mechanics, Singapore, 11-14th December, 2013.
+[2]Zhang L, Zhang HW, Yan B, A Stabilized Algorithm for Nonlinear Analysis of Bi-modulus Composites and Wrinkled Membranes, WCCM & APCOM, Seoul, 24-29 July, 2016.
